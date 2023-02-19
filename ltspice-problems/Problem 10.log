@@ -1,0 +1,21 @@
+Circuit: * C:\Users\austi\OneDrive - UW\Desktop\UW\Junior\B EE 361\Transmission Line Project\Problem 10.asc
+
+.OP point found by inspection.
+
+Date: Mon May 25 13:10:44 2020
+Total elapsed time: 0.503 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 100046
+traniter = 100046
+tranpoints = 50024
+accept = 50021
+rejected = 3
+matrix size = 8
+fillins = 3
+solver = Normal
+Matrix Compiler1:      21 opcodes  0.1/[0.0]/0.0
+Matrix Compiler2: 600 bytes object code size  0.1/0.1/[0.0]
+
